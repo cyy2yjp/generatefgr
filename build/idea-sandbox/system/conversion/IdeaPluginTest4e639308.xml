@@ -1,0 +1,17 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="/Users/tomchen/IdeaProjects/IdeaPlugin/IdeaPluginTest/.idea/modules.xml" timestamp="1587790346112" />
+    <file path="/Users/tomchen/IdeaProjects/IdeaPlugin/IdeaPluginTest/IdeaPluginTest.iml" timestamp="1587790346046" />
+    <file path="/Users/tomchen/IdeaProjects/IdeaPlugin/IdeaPluginTest/.idea/workspace.xml" timestamp="1587829238812" />
+    <file path="/Users/tomchen/IdeaProjects/IdeaPlugin/IdeaPluginTest/.idea/libraries/KotlinJavaRuntime.xml" timestamp="1587790346128" />
+    <file path="/Users/tomchen/IdeaProjects/IdeaPlugin/IdeaPluginTest/.idea/misc.xml" timestamp="1587790346103" />
+    <file path="/Users/tomchen/IdeaProjects/IdeaPlugin/IdeaPluginTest/.idea/kotlinc.xml" timestamp="1587790346119" />
+  </project-files>
+</conversion>

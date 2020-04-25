@@ -1,0 +1,69 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$Delete">
+        <ActionSummary times="5" last="1587829127106" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="28" last="1587829373086" />
+      </entry>
+      <entry key="EditorChooseLookupItem">
+        <ActionSummary times="11" last="1587796763121" />
+      </entry>
+      <entry key="EditorCopy">
+        <ActionSummary times="1" last="1587810087981" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="4" last="1587796757417" />
+      </entry>
+      <entry key="Generate">
+        <ActionSummary times="3" last="1587795901079" />
+      </entry>
+      <entry key="Kotlin.NewFile">
+        <ActionSummary times="1" last="1587796636786" />
+      </entry>
+      <entry key="Kotlin.NewScript">
+        <ActionSummary times="1" last="1587808023852" />
+      </entry>
+      <entry key="Kotlin.NewWorksheet">
+        <ActionSummary times="3" last="1587811535807" />
+      </entry>
+      <entry key="NewClass">
+        <ActionSummary times="3" last="1587803631321" />
+      </entry>
+      <entry key="NewDir">
+        <ActionSummary times="4" last="1587829132786" />
+      </entry>
+      <entry key="NewFile">
+        <ActionSummary times="11" last="1587829329766" />
+      </entry>
+      <entry key="NewFxmlFile">
+        <ActionSummary times="2" last="1587811572817" />
+      </entry>
+      <entry key="NewHtmlFile">
+        <ActionSummary times="2" last="1587810670034" />
+      </entry>
+      <entry key="NewScratchFile">
+        <ActionSummary times="1" last="1587829316656" />
+      </entry>
+      <entry key="RenameElement">
+        <ActionSummary times="1" last="1587829368077" />
+      </entry>
+      <entry key="SaveAll">
+        <ActionSummary times="19" last="1587829378561" />
+      </entry>
+      <entry key="ToggleLineBreakpoint">
+        <ActionSummary times="1" last="1587829316987" />
+      </entry>
+      <entry key="WelcomeScreen.OpenProject">
+        <ActionSummary times="1" last="1587795823179" />
+      </entry>
+      <entry key="com.intellij.ide.ReopenProjectAction">
+        <ActionSummary times="3" last="1587829253487" />
+      </entry>
+      <entry key="demo.hello.world">
+        <ActionSummary times="3" last="1587795902466" />
+      </entry>
+    </data>
+  </component>
+</application>

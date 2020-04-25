@@ -1,0 +1,17 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Test212" type="JAVA" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="fsdfasdf" type="PLAIN_TEXT" />
+      <mapping ext="jj" type="PLAIN_TEXT" />
+      <mapping ext="tt" type="PLAIN_TEXT" />
+      <mapping pattern="Test" type="XHTML" />
+      <mapping pattern="Hahah" type="XHTML" />
+      <mapping pattern="3342E" type="XHTML" />
+      <mapping pattern="sss" type="XML" />
+      <mapping pattern="F32323" type="XML" />
+    </extensionMap>
+  </component>
+</application>
